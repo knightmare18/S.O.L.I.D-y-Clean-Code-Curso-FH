@@ -14,3 +14,12 @@ hace exactamente lo que su nombre indica."**
     Podemos crear un objeto con los argumentos y en el momento de obtener los parámetros en la funcion, podemos desestructurar los parámetros del objeto.
 
     ![desestructurateParameters](./images/05-1.png)
+
+## Otras consideraciones
+
+- Simplicidad es fundamental
+- Funciones de tamaño reducido
+- Funciones de una sola línea sin causar complejidad
+- Menos de 20 líneas
+- Evita el uso del else
+- Prioriza el uso de la condicional ternaria
