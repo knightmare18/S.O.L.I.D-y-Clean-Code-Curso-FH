@@ -1,6 +1,4 @@
-# Clase 01
-
-## Deuda Técnica
+# Deuda Técnica
 - La deuda técnica es una falta de calidad en el código, que genera una deuda que repercutirá en costos futuros.
 ### Costos Económicos en 
 **Tiempo:**
